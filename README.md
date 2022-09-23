@@ -169,7 +169,7 @@ Project Link: [https://github.com/Rick-Sanchez-C/AutoInterfaces](https://github.
 [forks-url]: https://github.com/Rick-Sanchez-C/AutoInterfaces/network/members
 [stars-shield]: https://img.shields.io/github/stars/Rick-Sanchez-C/AutoInterfaces.svg?style=for-the-badge
 [stars-url]: https://github.com/Rick-Sanchez-C/AutoInterfaces/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Rick-Sanchez-C/AutoInterfaces.svg?style=for-the-badge
 [issues-url]: https://github.com/Rick-Sanchez-C/AutoInterfaces/issues
 [license-shield]: https://img.shields.io/github/license/Rick-Sanchez-C/AutoInterfaces.svg?style=for-the-badge
 [license-url]: https://github.com/Rick-Sanchez-C/AutoInterfaces/blob/master/LICENSE.txt
